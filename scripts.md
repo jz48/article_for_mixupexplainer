@@ -6,7 +6,7 @@ Dongsheng Luo*,  Florida International University
 
 Hua Wei, Arizona State University
 
-Accepted by SIGKDD2023 ![img.png](img/img.png)
+Accepted by SIGKDD2023 ![img.png](img/img_0.png)
 
 ### Key Points
 The proposed MixupExplainer framework aims to improve the quality of explanations for Graph Neural Networks (GNNs) by 
